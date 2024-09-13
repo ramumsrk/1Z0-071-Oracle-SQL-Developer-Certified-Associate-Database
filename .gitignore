@@ -1,0 +1,7 @@
+# Ignore Portable Document Format
+# files with *.pdf extension
+*.pdf
+# Ignore Microsoft document files
+# with *.docx or *.doc extension
+*.docx
+*.doc
